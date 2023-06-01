@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "icon": "https://www.freeiconspng.com/thumbs/software-icon/software-icon-30.png",
+    "category": "Software Development",
+    "jobs": 300
+  },
+  {
+    "id": 2,
+    "icon": "https://uxwing.com/wp-content/themes/uxwing/download/business-professional-services/data-science-icon.png",
+    "category": "Data Science",
+    "jobs": 125
+  },
+  {
+    "id": 3,
+    "icon": "https://uxwing.com/wp-content/themes/uxwing/download/arts-graphic-shapes/idea-icon.png",
+    "category": "Creative Design",
+    "jobs": "100+"
+  },
+  {
+    "id": 4,
+    "icon": "https://img.freepik.com/premium-vector/circular-marketing-icon_1453-93.jpg",
+    "category": "Marketing",
+    "jobs": 225
+  }  
+    
+]
+  

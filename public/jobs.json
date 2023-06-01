@@ -1,0 +1,170 @@
+[
+  {
+    "_id": "6432d8f4a453798030675388",
+    "logo": "https://www.samsung.com/sec/static/_images/common/logo_samsung_black.svg",
+    "company": "Samsung Electronics",
+    "address": "Newberry, SC 29108",
+    "email": "career@samsung.com",
+    "phone": "+1 (966) 575-3597",
+    "jobtitle": "Junior Software Developer",
+    "type": "Onsite",
+    "status": "Full-time",
+    "salary": "61K-100K",
+    "description": "This position is responsible for assiting in developing, coding, testing, debugging and customizing software solutions to business problems. This includes Full-Stack Software for browsers, desktops, tablets, and phones. Responsibilities span across database design, administration and use, webserver development and administration, project planning and management.",
+    "responsibility": [
+      "Assist in the design of software solutions to meet current and reasonable future requirments.",
+      "Support multiple platforms, both online and offline applications.",
+      "Applies software development best practices to code, test and implement software applications.",
+      "Follow project specifications and timeline.",
+      "Create and maintain accurate software documentation."
+    ],
+    "requirements": [
+      "Bachelor's degree in Computer Science or Computer Science & Engineering or other related fields preferred."
+    ],
+    "experiences": "Minimum 0 to 2 years of programming experience required."
+  },
+  {
+    "_id": "6432d8f43e307ac14f8534f8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/2560px-PayPal.svg.png",
+    "company": "PayPal",
+    "address": "New York, NY",
+    "email": "career@paypal.com",
+    "phone": "+1 (927) 427-2022",
+    "jobtitle": "Software Engineer",
+    "type": "Onsite",
+    "status": "Full-time",
+    "salary": "75K-99K",
+    "description": "Software Engineers at PayPal develop innovative solutions and high-quality products that touch millions of people every day around the globe. Our engineers solve some of the most complex technical problems in the world of connected payments across all business units, including PayPal, Braintree, Venmo, Paydiant and others. We are looking for the highest levels of technical talent and programming skills, as well as a keen desire to deeply understand our products and services to push our technology forward with respect to functionality, performance, reliability, and scalability.",
+    "responsibility": [
+      "Code high-volume and scalable software (front-end and/or back-end focused).",
+      "This may include creating web applications using React/Node, creating back-end services using Java, SQL, ReST and/or building and developing new user-facing experiences",
+      "Partner closely with cross functional teams in design, product and other business units",
+      "Maintain accurate software documentation."
+    ],
+    "requirements": [
+      "We’re looking for creative thinkers who also know how to create real-world products.",
+      "Working knowledge of web technologies (such as HTTP, HTML/DOM, JavaScript, CSS, AJAX)",
+      "Familiarity with any or multiple of the following: Node.js applications, Java, C++, Python",
+      "Must reside in the U.S."
+    ],
+    "experiences": "Minimum 3 to 5 years of programming experience required."
+  },
+  {
+    "_id": "6432d8f4da11ccf151df124d",
+    "logo": "https://assets.website-files.com/62d5a185d5b93d7484f1ea49/62d5a185d5b93d70ecf1ec18_dynata%20logo%20(1).png",
+    "company": "Dynata",
+    "address": "Maumee, OH",
+    "email": "career@dynata.com",
+    "phone": "+1 (994) 422-2543",
+    "jobtitle": "Software Developer",
+    "type": "Remote",
+    "status": "Full-time",
+    "salary": "79K-120K",
+    "description": "We believe the job search system is broken and can be fixed with a business model that acts on behalf of the job seeker, instead of on behalf of employers, recruiters, or schools. If this sounds interesting to you, we look forward to hearing from you!",
+    "responsibility": [
+      "Design and create services and system architecture for your projects, and contribute and provide feedback to other team members",
+      "Design and implement rich user experiences",
+      "Work with the product and design teams to understand end-user requirements, formulate use cases, and then translate that into a pragmatic and effective technical solution",
+      "Dive into difficult problems and successfully deliver results on schedule"
+    ],
+    "requirements": [
+      "A track record of projects completed on time",
+      "Solid OOP and software design knowledge",
+      "A good understanding of current industry trends and best practices",
+      "Ability and willing to learn core business processes"
+    ],
+    "experiences": "Minimum 1 to 2 years of programming or related experience required."
+  },
+  {
+    "_id": "6432d8f4ab95daf13b343793",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2560px-Google_2015_logo.svg.png",
+    "company": "Google",
+    "address": "Los Angeles, CA 90017",
+    "email": "career@google.com",
+    "phone": "+1 (801) 576-2627",
+    "jobtitle": "Data Analyst",
+    "type": "Onsite",
+    "status": "Part-time",
+    "salary": "89K-150K",
+    "description": "Fast-paced, dynamic, and proactive, YouTube’s Trust & Safety team is dedicated to making YouTube a safe place for users, viewers, and content creators around the world to belong, create, and express themselves. Whether understanding and solving their online content concerns, navigating within global legal frameworks, or writing and enforcing worldwide policy, the Trust & Safety team is on the frontlines of enhancing the YouTube experience, building internet safety, and protecting free speech in our ever-evolving digital world.",
+    "responsibility": [
+      "Apply advanced statistical methods to large complex data sets to understand",
+      "Learn complex and technical concepts and systems and deliver meaningful results",
+      "Maintain, foster and promote quality by providing regular feedback metrics to the Global team",
+      "Develop quality training materials, create consensus and maintain communication with business stakeholders"
+    ],
+    "requirements": [
+      "Bachelor's degree or equivalent practical experience.",
+      "Experience in SQL (e.g., SQL, MySQL, MapReduce).",
+      "Experience with fraud and abuse dynamics in online platforms.",
+      "Experience in data analysis and statistical modeling."
+    ],
+    "experiences": "Minimum 5+ years as a data analyst or related experience required."
+  },
+  {
+    "_id": "6432d8f4cc1f427c8add22ad",
+    "logo": "https://mma.prnewswire.com/media/1395468/67ca1a78db048eb8c30a9dc52b63_Logo.jpg?p=facebook",
+    "company": "Salesloft",
+    "address": "Foxworth, Texas, 1977",
+    "email": "career@salesloft.com",
+    "phone": "+1 (977) 412-2914",
+    "jobtitle": "Manager, Software Engineering",
+    "type": "Onsite",
+    "status": "Full-time",
+    "salary": "72K-136K",
+    "description": "We are seeking managers who exemplify our cultural core values: put customers first, team over self, glass half full, focus on results, and bias towards action, and will lead teams of engineers in our long term goals of delivering the best product to customers in the market. We believe in servant leadership. We empower team members to do their best while holding them to a higher standard of growth, accomplishment, and results.",
+    "responsibility": [
+      "Strong understanding of APIs, governance and compliance, security and permissions, and localization.",
+      "Experience developing people and teams.",
+      "Strong emotional intelligence, with the ability to build trust, navigate difficult conversations, and resolve conflict."
+    ],
+    "requirements": [
+      "Experience working on scaling or mature B2B / consumer software.",
+      "7+ years working in the Software industry."
+    ],
+    "experiences": "Must 2+ years of Software Engineering Management (people leadership)"
+  },
+  {
+    "_id": "6432d8f414373db52b1992b2",
+    "logo": "https://mma.prnewswire.com/media/1945120/UnifyWork_Logo.jpg?p=publish",
+    "company": "UnifyWork",
+    "address": "Yettem, Ohio, 8930",
+    "email": "career@unifywork.com",
+    "phone": "+1 (946) 593-3992",
+    "jobtitle": "Software Development Engineer",
+    "type": "Remote",
+    "status": "Part-time",
+    "salary": "52K-90K",
+    "description": "UnifyWork is a talent network that instantly matches you to in-demand jobs, like this one, through our patented skills-based matching technology. Match to jobs, with full wage details, that are the best fit for your skills and interests, including jobs you might not have known you are a fit for. Chat with employers, interview, negotiate pay, and get hired fast.",
+    "responsibility": [
+      "Coordinate installation of software system.",
+      "Design software applications.",
+      "Design, develop and modify software systems, using scientific analysis."
+    ],
+    "requirements": ["Bachelor's or related degree preferred."],
+    "experiences": "Minimum 2 years of programming or related experience required."
+  },
+  {
+    "_id": "6432d8f466e903ba286dd0f3",
+    "logo": "https://www.freepnglogos.com/uploads/tesla-logo-png-20.png",
+    "company": "Tesla",
+    "address": "Palo Alto, CA",
+    "email": "career@tesla.com",
+    "phone": "+1 (944) 592-3702",
+    "jobtitle": "Software Engineering Manager - Tesla Energy",
+    "type": "Onsite",
+    "status": "Full-time",
+    "salary": "95K-190K",
+    "description": "To support Tesla’s overall mission of accelerating the world’s transition to sustainable energy, the Tesla Energy team brings our world-leading battery technology to the grid. Tesla is leveraging its breakthrough software, electronics, test, and manufacturing capability to develop and deploy grid-connected storage at residential, industrial, and utility levels.",
+    "responsibility": [
+      "Set the standard of technical and leadership excellence for the team.",
+      "You will be capable and enjoy executing any level of the software design and validation process to lead from the front.",
+      "Key owner of software development processes, and improving team efficiency by developing scalable, reliable, and highly re-usable code.",
+      "Lead software/hardware co-design for optimized solutions and schedules."
+    ],
+    "requirements": [
+      "BS or higher in Engineering, Physics, Computer Science or proof of exceptional skills in related fields."
+    ],
+    "experiences": "10+ years of professional software development experience."
+  }
+]
