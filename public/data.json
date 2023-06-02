@@ -1,28 +1,26 @@
 [
   {
     "id": 1,
-    "icon": "https://www.freeiconspng.com/thumbs/software-icon/software-icon-30.png",
+    "icon": "https://img.freepik.com/free-vector/web-development-isometric-concept-composition-illustration_1284-55922.jpg?w=900&t=st=1685610697~exp=1685611297~hmac=5d3533909bfe9339957b7124e44a6da78ad8fc63d3f0c5ad210d8001ffa03965",
     "category": "Software Development",
     "jobs": 300
   },
   {
     "id": 2,
-    "icon": "https://uxwing.com/wp-content/themes/uxwing/download/business-professional-services/data-science-icon.png",
+    "icon": "https://img.freepik.com/premium-vector/big-data-background_73426-348.jpg?w=1060",
     "category": "Data Science",
     "jobs": 125
   },
   {
     "id": 3,
-    "icon": "https://uxwing.com/wp-content/themes/uxwing/download/arts-graphic-shapes/idea-icon.png",
+    "icon": "https://img.freepik.com/free-vector/creative-thinking-geometric-lettering_23-2148475702.jpg?w=900&t=st=1685610824~exp=1685611424~hmac=140b7e30cc5f0cfeaac15c58d257e53382246a51b7e991f9826e4b3a3c95e9d2",
     "category": "Creative Design",
     "jobs": "100+"
   },
   {
     "id": 4,
-    "icon": "https://img.freepik.com/premium-vector/circular-marketing-icon_1453-93.jpg",
+    "icon": "https://img.freepik.com/free-vector/isometric-marketing-strategy-flowchart-composition-with-text-captions-people-colourful-graph-diagram-elements-with-computers_1284-56745.jpg?w=826&t=st=1685610767~exp=1685611367~hmac=dbb7dd22253df16c7dde96615ac8f449d95134213bedcab1065eb07d2b5a0182",
     "category": "Marketing",
     "jobs": 225
-  }  
-    
+  }
 ]
-  
